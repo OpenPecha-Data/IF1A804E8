@@ -1,0 +1,62 @@
+id: IF1A804E8
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:12:26.129332'
+last_modified: '2022-06-17T14:12:26.129365'
+parser: null
+source_metadata:
+  title: Sikkim Series
+  language: en
+  description: 'Texts related to the land of Sikkim, known to Tibetans as the ''valley
+    of rice'' or ‘fruitful land’ (‘bras ljongs):'
+  volume:
+    f3111:
+      title: Guide to the Valley of Joy, Sikkim
+      base_file: f3111.txt
+      order: 1
+      parent: Guides
+    fF825:
+      title: Notes on Chögyal Puntsok Rigdzin and Lhatsün Namkha Jigme’s Incarnations
+      base_file: fF825.txt
+      order: 2
+      parent: History
+    f9847:
+      title: Royal Genealogy of Sikkim
+      base_file: f9847.txt
+      order: 3
+      parent: History
+    f3DDA:
+      title: Offering to the Nāgas of Gangtok
+      base_file: f3DDA.txt
+      order: 4
+      parent: Offering
+    f5376:
+      title: Aspiration Written on the Occasion of Princess Sangdé’s Passing in Sikkim
+      base_file: f5376.txt
+      order: 5
+      parent: Prayers
+    f0B5E:
+      title: 'Burgeoning Joy and Happiness: An Aspiration for the Welfare of the Great
+        Hidden Land of Sikkim'
+      base_file: f0B5E.txt
+      order: 6
+      parent: Prayers
+    f0CD1:
+      title: Song that Arose Spontaneously at Taktse Podrang, Sikkim
+      base_file: f0CD1.txt
+      order: 7
+      parent: Songs
+    fD28D:
+      title: Upon Hearing the Fluted Speech of Kunzang Dechen Tsomo, Queen Mother
+        of Sikkim
+      base_file: fD28D.txt
+      order: 8
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
